@@ -1,0 +1,36 @@
+body {
+  height: 100%;
+  margin: 0;
+
+  font-family: "monospace", sans-serif;
+}
+
+/* logo */
+.logo {
+  width: 50px;
+}
+
+.wordwall {
+  margin-top: 50px;
+}
+
+.titulo-destacados {
+  padding-top: 50px;
+}
+
+.somos-text {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.contenido-somo {
+  background-color: blueviolet;
+  color: aliceblue;
+  border-radius: 20px;
+}
+
+.texto-somos {
+  padding: 20px 20px 20px 20px;
+}
+
+/* footer */
